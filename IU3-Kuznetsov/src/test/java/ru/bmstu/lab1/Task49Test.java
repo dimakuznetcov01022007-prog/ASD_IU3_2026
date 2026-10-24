@@ -1,6 +1,8 @@
 package ru.bmstu.lab1;
+
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
+
 class Task49Test {
     @Test
     void shouldCalculateRowSums() {
